@@ -34,5 +34,8 @@
     "stylelint": "^9.10.1",
     "stylelint-config-recommended": "^2.1.0",
     "takeshape-cli": "^4.97.0"
+  },
+  "dependencies": {
+    "netlify-lambda": "^1.6.3"
   }
 }
